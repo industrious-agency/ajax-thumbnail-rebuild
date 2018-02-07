@@ -1,0 +1,5 @@
+{
+    "name": "wpackagist-plugin/ajax-thumbnail-rebuild",
+    "type": "wordpress-plugin",
+    "require": {}
+}
